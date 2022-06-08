@@ -1,0 +1,64 @@
+{
+  "main": [
+    {
+      "imgUrl": "https://i.pinimg.com/474x/90/5a/9e/905a9e82e79f7d10b76703b77ba351a5--pizza-cheese-pizza-calzone.jpg",
+      "title": "Cheese Pizza",
+      "price": 20.1,
+      "id": 1
+    },
+    {
+      "imgUrl": "https://www.blessthismessplease.com/wp-content/uploads/2020/05/veggie-pizza-recipe-5-of-8.jpg",
+      "title": "Veggie Pizza",
+      "price": 10.9,
+      "id": 2
+    },
+    {
+      "imgUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F19%2F2014%2F07%2F10%2Fpepperoni-pizza-ck-x.jpg&q=60",
+      "title": "Pepperoni Pizza",
+      "price": 17.6,
+      "id": 3
+    },
+    {
+      "imgUrl": "https://media.istockphoto.com/photos/pizza-picture-id139892156?k=20&m=139892156&s=612x612&w=0&h=2LAE8_vSyJCEb1iEHXgnAf3ido1cPjj-1OPresIjaXA=",
+      "title": "Meat Pizza",
+      "price": 22.4,
+      "id": 4
+    },
+    {
+      "imgUrl": "https://static.toiimg.com/thumb/56868564.cms?imgsize=1948751",
+      "title": "Margherita Pizza",
+      "price": 12.6,
+      "id": 5
+    },
+    {
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiy6gBZeqR3Ox1CsVjjXCSXrd07Z2DKNJNLw&usqp=CAU",
+      "title": "Hawaiian Pizza",
+      "price": 27.6,
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "username": "chandu",
+      "mail": "eswarchandu96@gmail.com",
+      "password": "Chandu@220",
+      "confirmPwd": "Chandu@220",
+      "userErr": "",
+      "mailErr": "",
+      "pwdError": "",
+      "confirmPwdErr": "",
+      "id": 1
+    },
+    {
+      "username": "kumar",
+      "mail": "kumar51@gmail.com",
+      "password": "Kum@r301",
+      "confirmPwd": "Kum@r301",
+      "userErr": "",
+      "mailErr": "",
+      "pwdError": "",
+      "confirmPwdErr": "",
+      "id": 2
+    }
+  ]
+}

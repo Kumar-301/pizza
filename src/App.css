@@ -1,38 +1,39 @@
-.App {
-  text-align: center;
+.navbar-bg-container{
+  background-color: rgb(230, 230, 230);
+}
+.logo-image{
+  width: 30%;
+}
+.bg-container{
+  background-color: rgb(238, 244, 246);
+}
+.input-text-fields{
+  background-color: rgb(233, 233, 133);
+}
+::placeholder{
+  color: black;
+}
+.pizza-image{
+  width: 200px;
+  height: 200px;
+}
+.cart-images{
+  width: 100px;
+}
+.borders,.header-borders{
+  border-bottom: 1px solid grey;
+}
+.header-borders{
+  padding-bottom: 20px;
+}
+.notify-para{
+  background-color: rgb(201, 238, 201);
+  color: green;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
+@media screen and (max-width:992px) {
+  .pizza-image{
+    width: 150px;
+    height: 150px;
   }
 }
